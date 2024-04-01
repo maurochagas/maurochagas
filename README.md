@@ -1,16 +1,39 @@
-### Hi there 👋
+# Hii! I'm Mauro das Chagas Junior! 👋
 
 <!--
-**maurochagas/maurochagas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src=https://tenor.com/pt-PT/view/working-from-home-computer-homework-gif-13271998 alt="Gif maneirinho">
+-->
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 📚 I'm currently studying **Computer Science** at [Inteli](https://www.bing.com/search?q=inteli&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARAAGEAyBggCEEUYOzIGCAMQABhAMgYIBBAAGEAyBggFEEUYPDIGCAYQRRg8MgYIBxBFGDwyBggIEEUYPNIBCDExNDBqMGoxqAIAsAIA&FORM=ANAB01&PC=U531)
+
+<!--
+- 🌱 I’m currently learning **Java** 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+<br>
+
+![Mauro's GitHub stats](https://github-readme-stats.vercel.app/api?username=maurochagas&show_icons=true&theme=dracula)
+
+<br>
+
+## 💻 Technologies I work with
+
+<br>
+
+## 🛠 Projects I've worked on
+
+<br>
+
+## 🔧 Project I'm currently developing
+
+<br>
+
+<!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maurochagas&hide_progress=true)
 -->
