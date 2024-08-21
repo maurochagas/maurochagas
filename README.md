@@ -3,26 +3,11 @@
 <br>
 
 - 📚 I'm currently studying **Computer Science** at [Inteli](https://www.bing.com/search?q=inteli&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgYIARAAGEAyBggCEEUYOzIGCAMQABhAMgYIBBAAGEAyBggFEEUYPDIGCAYQRRg8MgYIBxBFGDwyBggIEEUYPNIBCDExNDBqMGoxqAIAsAIA&FORM=ANAB01&PC=U531)
-  - My main interests: Algorithms, Data structures, Operational research, Machine learning, Backend development
-  - Achievements: Highest grade in the class in 2023
-  - Extracurricular Activities:
-    - Chief financial officer of the robotics league in 2024
-    - Member of the college's junior company in 2024
-    - Programming monitor in 2024
-    - Director of artificial intelligence league competitions in 2023
-    - Student work in technical support in 2023
-    
 - 🌱 I’m currently learning **Java** and **C#**
-  - Java: Developing backend applications using Spring Boot and Quarkus
-  - C#: Working on ASP.NET projects for web development in college's junior company
-  - Goals: 
-    - Master advanced concepts in both languages
-    - Contribute to open-source projects
-
 - 🏢 Internships & Work Experience
   - **Software Development Intern** at [BTG Pactual](https://www.btgpactual.com/) (07/2024)
     - I worked on backend services using Java and Spring Boot
-    - Collaborated with cross-functional teams in Agile environment]
+    - Collaborated with cross-functional teams in Agile environment
   - **Data scientist** at [Banco Pan](https://www.bancopan.com.br/) (01/2024)
     - I worked with amazon athena and sql databases
     - I developed a machine learning model for predicting bank service referrals
